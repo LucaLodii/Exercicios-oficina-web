@@ -2,15 +2,14 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-<<<<<<< HEAD
+
     background-color: whitesmoke;
-=======
->>>>>>> 5f2422a06dd7454254e5d74951298b96090bc454
+
 }
 
 h1 {
     text-align: center;
-<<<<<<< HEAD
+
     color: #007bff;
 }
 
@@ -27,25 +26,25 @@ header h2 {
 header p {
     font-size: 1.2rem;
     line-height: 1.6;
-=======
+
 }
 
 header p {
     font-size: 1.2rem; 
->>>>>>> 5f2422a06dd7454254e5d74951298b96090bc454
+
 }
 
 .container {
     display: flex;
-<<<<<<< HEAD
-=======
+
+
     flex-direction: column;
->>>>>>> 5f2422a06dd7454254e5d74951298b96090bc454
+
     padding: 0 1rem; 
 }
 
 .box {
-<<<<<<< HEAD
+
     width: 100%;
     padding: 1rem;
     border: 1px solid lightgray;
@@ -69,12 +68,10 @@ p {
 }
 .containerGG p {
     font-size: 1.25rem; 
-=======
+
     width: calc(100% - 2rem); 
     padding: 1rem; 
-    background-color: lightgray;
-    border: 1px solid black;
     border-radius: 10px;
     margin: 0.5rem 0; 
->>>>>>> 5f2422a06dd7454254e5d74951298b96090bc454
+
 }
