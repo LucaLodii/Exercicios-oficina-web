@@ -75,3 +75,9 @@ p {
     margin: 0.5rem 0; 
 
 }
+.curso-imagem {
+    width: 200px; /* Ou qualquer tamanho desejado */
+    height: 200px; /* Garante que a imagem seja quadrada */
+    object-fit: cover; /* Ajusta a imagem para preencher o espaço sem distorcer */
+    margin-bottom: 1rem; /* Espaçamento entre a imagem e o texto */
+}
